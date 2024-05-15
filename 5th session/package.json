@@ -1,7 +1,7 @@
 {
   "name": "5th-session",
   "version": "1.0.0",
-  "main": "tests.js",
+  "main": "scripts.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,9 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0"
   }
 }
